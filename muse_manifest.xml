@@ -1,0 +1,103 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="designsg.me" resolutions="1x" timestamp="1536073589698">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="3985592417" ref="about:contact:portfolio:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="533868457" ref="about:contact:portfolio:index"/>
+    <file name="about.css" crc="4229706217" ref="about"/>
+    <file name="nomq_about.css" crc="3898938586" ref="about"/>
+    <file name="iefonts_about.css" crc="321525473" ref="about"/>
+    <file name="contact.css" crc="311416073" ref="contact"/>
+    <file name="nomq_contact.css" crc="152230264" ref="contact"/>
+    <file name="iefonts_contact.css" crc="321525473" ref="contact"/>
+    <file name="portfolio.css" crc="249091507" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4046646338" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="321525473" ref="portfolio"/>
+    <file name="index.css" crc="4224780266" ref="index"/>
+    <file name="nomq_index.css" crc="306150853" ref="index"/>
+    <file name="iefonts_index.css" crc="321525473" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:about:portfolio:contact"/>
+    <file name="museutils.js" crc="531812214" ref="index:about:portfolio:contact"/>
+    <file name="whatinput.js" crc="84559013" ref="index:about:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="index:about:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="index:about:portfolio:contact"/>
+    <file name="webpro.js" crc="4156477058" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="index"/>
+    <file name="touchswipe.js" crc="4174436727" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
+    <file name="jquery.museresponsive.js" crc="367458044" ref="index:about:portfolio:contact"/>
+    <file name="form_check.php" crc="373582055" ref="contact"/>
+    <file name="form_throttle.php" crc="211381018" ref="contact"/>
+    <file name="form_process.php" crc="6354943" ref="contact"/>
+    <file name="form-u6375.php" crc="439226935" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logowebdesign.png" crc="273346624" seo="true" ref="index:about:portfolio:contact"/>
+    <file name="menu.jpg" crc="3858086736" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact"/>
+    <file name="festival.jpg" crc="284519358" seo="true" ref="index"/>
+    <file name="img_3371.jpg" crc="4277820482" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="if_2018_social_media_popular_app_logo_facebook_3225194.svg" crc="4205399509" ref="index:about:portfolio:contact"/>
+    <file name="if_2018_social_media_popular_app_logo_facebook_3225194_poster_.png" crc="4010984110" ref="index"/>
+    <file name="if_2018_social_media_popular_app_logo_instagram_3225191.svg" crc="4139660551" ref="index:about:portfolio:contact"/>
+    <file name="if_2018_social_media_popular_app_logo_instagram_3225191_poster_.png" crc="228337641" ref="index"/>
+    <file name="if_2018_social_media_popular_app_logo_linkedin_3225190.svg" crc="3941351239" ref="index:about:portfolio:contact"/>
+    <file name="if_2018_social_media_popular_app_logo_linkedin_3225190_poster_.png" crc="14727429" ref="index"/>
+    <file name="9e0c742ad7ba80d9c8e51315dd794832.png" crc="3774352398" seo="true" ref="index:about:portfolio:contact"/>
+    <file name="ee7f2d78-f75a-4a5d-afe0-7157f91bcfc6.jpg" crc="3941233675" seo="true" ref="about"/>
+    <file name="ee7f2d78-f75a-4a5d-afe0-7157f91bcfc6-u473.png" crc="3932908487" ref="about"/>
+    <file name="ee7f2d78-f75a-4a5d-afe0-7157f91bcfc6199x190.jpg" crc="4163359829" seo="true" ref="about"/>
+    <file name="ee7f2d78-f75a-4a5d-afe0-7157f91bcfc6-u4732.png" crc="3996316267" ref="about"/>
+    <file name="project2.jpg" crc="133306549" seo="true" ref="portfolio"/>
+    <file name="soul essence2.jpg" crc="4048905155" seo="true" ref="portfolio"/>
+    <file name="booklet.jpg" crc="99827734" seo="true" ref="portfolio"/>
+    <file name="booklet2.jpg" crc="3919761040" seo="true" ref="portfolio"/>
+    <file name="booklet3.jpg" crc="184940102" seo="true" ref="portfolio"/>
+    <file name="booklet4.jpg" crc="69230949" seo="true" ref="portfolio"/>
+    <file name="booklet5.jpg" crc="3934499398" seo="true" ref="portfolio"/>
+    <file name="booklet6.jpg" crc="4227290136" seo="true" ref="portfolio"/>
+    <file name="project2201x172.jpg" crc="4234093553" seo="true" ref="portfolio"/>
+    <file name="soul essence2215x172.jpg" crc="19446154" seo="true" ref="portfolio"/>
+    <file name="booklet2216x167.jpg" crc="3921068545" seo="true" ref="portfolio"/>
+    <file name="booklet3215x166.jpg" crc="4043615652" seo="true" ref="portfolio"/>
+    <file name="booklet4216x167.jpg" crc="328804405" seo="true" ref="portfolio"/>
+    <file name="booklet5215x166.jpg" crc="4012485016" seo="true" ref="portfolio"/>
+    <file name="project2126x108.jpg" crc="3976934010" seo="true" ref="portfolio"/>
+    <file name="soul essence2134x108.jpg" crc="400612050" seo="true" ref="portfolio"/>
+    <file name="booklet2135x104.jpg" crc="454688017" seo="true" ref="portfolio"/>
+    <file name="booklet3134x104.jpg" crc="3982505433" seo="true" ref="portfolio"/>
+    <file name="booklet4135x105.jpg" crc="3803772580" seo="true" ref="portfolio"/>
+    <file name="booklet5135x104.jpg" crc="3826471829" seo="true" ref="portfolio"/>
+    <file name="project2-u490.png" crc="4207270197" ref="portfolio"/>
+    <file name="soul essence2-u500.png" crc="4070839137" ref="portfolio"/>
+    <file name="booklet-u510.png" crc="3972478242" ref="portfolio"/>
+    <file name="booklet2-u520.png" crc="3929627149" ref="portfolio"/>
+    <file name="booklet3-u530.png" crc="375680597" ref="portfolio"/>
+    <file name="booklet4-u540.png" crc="4061788112" ref="portfolio"/>
+    <file name="booklet5-u550.png" crc="3855696052" ref="portfolio"/>
+    <file name="booklet6-u560.png" crc="4291766823" ref="portfolio"/>
+    <file name="u6390-17.png" crc="520284619" ref="contact"/>
+    <file name="u6390-17-r.png" crc="204990891" ref="contact"/>
+    <file name="u6390-17-m.png" crc="3831814403" ref="contact"/>
+    <file name="u6390-17-fs.png" crc="381324090" ref="contact"/>
+    <file name="u6390-172.png" crc="520284619" ref="contact"/>
+    <file name="u6390-17-r2.png" crc="204990891" ref="contact"/>
+    <file name="u6390-17-m2.png" crc="3831814403" ref="contact"/>
+    <file name="u6390-17-fs2.png" crc="381324090" ref="contact"/>
+    <file name="u6390-173.png" crc="520284619" ref="contact"/>
+    <file name="u6390-17-r3.png" crc="204990891" ref="contact"/>
+    <file name="u6390-17-m3.png" crc="3831814403" ref="contact"/>
+    <file name="u6390-17-fs3.png" crc="381324090" ref="contact"/>
+    <file name="u6390-174.png" crc="520284619" ref="contact"/>
+    <file name="u6390-17-r4.png" crc="204990891" ref="contact"/>
+    <file name="u6390-17-m4.png" crc="3831814403" ref="contact"/>
+    <file name="u6390-17-fs4.png" crc="381324090" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="340597224" seo="true" mt="1536067570435" redirect="true"/>
+  <file name="about.html" crc="4205183069" seo="true" mt="1536067420651" redirect="true"/>
+  <file name="portfolio.html" crc="303874990" seo="true" mt="1536066993896" redirect="true"/>
+  <file name="contact.html" crc="10508951" seo="true" mt="1536070523921" redirect="true"/>
+</manifest>

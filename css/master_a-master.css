@@ -1,0 +1,104 @@
+#menuu162
+{
+	border-color: transparent;
+	background-color: transparent;
+	border-width: 0px;
+}
+
+#u164,#u171,#u211,#u230
+{
+	background-color: #FF4040;
+}
+
+#u165-4,#u173-4,#u212-4,#u233-4
+{
+	font-family: open-sans, sans-serif;
+	background-color: transparent;
+	border-width: 0px;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: 700;
+	text-align: center;
+}
+
+.MenuItem
+{
+	cursor: pointer;
+}
+
+#u894
+{
+	background-color: #FF4841;
+}
+
+#u440,#u451,#u462
+{
+	display: block;
+}
+
+#u321,#u163,#u164.MuseMenuActive #u165-4,#u170,#u171.MuseMenuActive #u173-4,#u208,#u211.MuseMenuActive #u212-4,#u229,#u230.MuseMenuActive #u233-4,#u444,#u455,#u466,#u947
+{
+	background-color: transparent;
+}
+
+#u386-5
+{
+	background-color: transparent;
+	color: #FFF7F6;
+}
+
+#u386-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u386
+{
+	line-height: 17px;
+}
+
+#u386-2
+{
+	font-family: open-sans, sans-serif;
+	font-size: 10px;
+	font-weight: 400;
+	line-height: 12px;
+}
+
+@media (min-width: 769px)
+{
+	#u894_align_to_page
+	{
+		max-width: 1280px;
+	}
+
+}
+
+@media (min-width: 481px) and (max-width: 768px)
+{
+	#u894_align_to_page
+	{
+		max-width: 768px;
+	}
+
+}
+
+@media (min-width: 321px) and (max-width: 480px)
+{
+	#u894_align_to_page
+	{
+		max-width: 480px;
+	}
+
+}
+
+@media (max-width: 320px)
+{
+	#u894_align_to_page
+	{
+		max-width: 320px;
+	}
+
+}
+
