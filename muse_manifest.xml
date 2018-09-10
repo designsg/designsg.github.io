@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designsg.me" resolutions="1x" timestamp="1536619750980">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designsg.me" resolutions="1x" timestamp="1536622788039">
   <folder name="css">
-    <file name="site_global.css" crc="344917794"/>
+    <file name="site_global.css" crc="3883470494"/>
     <file name="master_a-master.css" crc="189970920" ref="portfolio:index:contact:about"/>
     <file name="nomq_preview_master_a-master.css" crc="28789800" ref="portfolio:index:contact:about"/>
     <file name="portfolio.css" crc="298926736" ref="portfolio"/>
@@ -9,11 +9,11 @@
     <file name="index.css" crc="4122377161" ref="index"/>
     <file name="nomq_index.css" crc="4250917958" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="contact.css" crc="270194860" ref="contact"/>
-    <file name="nomq_contact.css" crc="3980287459" ref="contact"/>
+    <file name="contact.css" crc="98622831" ref="contact"/>
+    <file name="nomq_contact.css" crc="470502167" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="about.css" crc="4230397428" ref="about"/>
-    <file name="nomq_about.css" crc="342789572" ref="about"/>
+    <file name="about.css" crc="3935591916" ref="about"/>
+    <file name="nomq_about.css" crc="506157972" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
   <folder name="assets">
@@ -95,7 +95,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="if_2018_social_media_popular_app_logo_facebook_3225194_poster_.png" crc="4010984110" ref="index"/>
+    <file name="if_2018_social_media_popular_app_logo_facebook_3225194_poster_.png" crc="4010984110" ref="index:about:contact"/>
     <file name="if_2018_social_media_popular_app_logo_instagram_3225191.svg" crc="4139660551" seo="true" ref="index:about:portfolio:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -114,7 +114,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="if_2018_social_media_popular_app_logo_instagram_3225191_poster_.png" crc="228337641" ref="index"/>
+    <file name="if_2018_social_media_popular_app_logo_instagram_3225191_poster_.png" crc="228337641" ref="index:about:contact"/>
     <file name="if_2018_social_media_popular_app_logo_linkedin_3225190.svg" crc="3941351239" seo="true" ref="index:about:portfolio:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -133,7 +133,7 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
     </file>
-    <file name="if_2018_social_media_popular_app_logo_linkedin_3225190_poster_.png" crc="14727429" ref="index"/>
+    <file name="if_2018_social_media_popular_app_logo_linkedin_3225190_poster_.png" crc="14727429" ref="index:about:contact"/>
     <file name="9e0c742ad7ba80d9c8e51315dd794832.png" crc="3774352398" seo="true" ref="index:about:portfolio:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -254,7 +254,7 @@
     </file>
   </folder>
   <file name="index.html" crc="4054514288" seo="true" mt="1536617828749" redirect="true"/>
-  <file name="about.html" crc="4124822093" seo="true" mt="1536618469782" redirect="true"/>
+  <file name="about.html" crc="4276111720" seo="true" mt="1536622191042" redirect="true"/>
   <file name="portfolio.html" crc="36410821" seo="true" mt="1536617828749" redirect="true"/>
-  <file name="contact.html" crc="111248374" seo="true" mt="1536617828749" redirect="true"/>
+  <file name="contact.html" crc="3995315360" seo="true" mt="1536622755712" redirect="true"/>
 </manifest>
