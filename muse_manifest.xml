@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designsg.me" resolutions="1x" timestamp="1536622788039">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="designsg.me" resolutions="1x" timestamp="1536683733866">
   <folder name="css">
-    <file name="site_global.css" crc="3883470494"/>
-    <file name="master_a-master.css" crc="189970920" ref="portfolio:index:contact:about"/>
+    <file name="site_global.css" crc="3778734565"/>
+    <file name="master_a-master.css" crc="194287364" ref="portfolio:index:contact:about"/>
     <file name="nomq_preview_master_a-master.css" crc="28789800" ref="portfolio:index:contact:about"/>
-    <file name="portfolio.css" crc="298926736" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="4282007326" ref="portfolio"/>
+    <file name="portfolio.css" crc="4265910168" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="416450799" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="3824530138" ref="portfolio"/>
-    <file name="index.css" crc="4122377161" ref="index"/>
-    <file name="nomq_index.css" crc="4250917958" ref="index"/>
+    <file name="index.css" crc="4151415029" ref="index"/>
+    <file name="nomq_index.css" crc="4136119380" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="contact.css" crc="98622831" ref="contact"/>
     <file name="nomq_contact.css" crc="470502167" ref="contact"/>
     <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
-    <file name="about.css" crc="3935591916" ref="about"/>
-    <file name="nomq_about.css" crc="506157972" ref="about"/>
+    <file name="about.css" crc="62745570" ref="about"/>
+    <file name="nomq_about.css" crc="50807522" ref="about"/>
     <file name="iefonts_about.css" crc="3824530138" ref="about"/>
   </folder>
   <folder name="assets">
@@ -26,10 +26,10 @@
     <file name="museconfig.js" crc="4286661555" ref="index:about:portfolio:contact"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index:about:portfolio:contact"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:about:portfolio:contact"/>
-    <file name="webpro.js" crc="4059564322" ref="index:contact"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contact:portfolio"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:portfolio"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:portfolio"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:portfolio"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:about:portfolio:contact"/>
     <file name="require.js" crc="7928878" ref="index:about:portfolio:contact"/>
@@ -44,6 +44,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -52,10 +56,6 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="menu.jpg" crc="3858086736" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -76,12 +76,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:portfolio"/>
     <file name="if_2018_social_media_popular_app_logo_facebook_3225194.svg" crc="4205399509" seo="true" ref="index:about:portfolio:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -90,17 +94,17 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
-    <file name="if_2018_social_media_popular_app_logo_facebook_3225194_poster_.png" crc="4010984110" ref="index:about:contact"/>
+    <file name="if_2018_social_media_popular_app_logo_facebook_3225194_poster_.png" crc="4010984110" ref="index:contact"/>
     <file name="if_2018_social_media_popular_app_logo_instagram_3225191.svg" crc="4139660551" seo="true" ref="index:about:portfolio:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -109,17 +113,17 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
-    <file name="if_2018_social_media_popular_app_logo_instagram_3225191_poster_.png" crc="228337641" ref="index:about:contact"/>
+    <file name="if_2018_social_media_popular_app_logo_instagram_3225191_poster_.png" crc="228337641" ref="index:contact"/>
     <file name="if_2018_social_media_popular_app_logo_linkedin_3225190.svg" crc="3941351239" seo="true" ref="index:about:portfolio:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -128,17 +132,17 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
-    <file name="if_2018_social_media_popular_app_logo_linkedin_3225190_poster_.png" crc="14727429" ref="index:about:contact"/>
+    <file name="if_2018_social_media_popular_app_logo_linkedin_3225190_poster_.png" crc="14727429" ref="index:contact"/>
     <file name="9e0c742ad7ba80d9c8e51315dd794832.png" crc="3774352398" seo="true" ref="index:about:portfolio:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -147,10 +151,6 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="ee7f2d78-f75a-4a5d-afe0-7157f91bcfc6.jpg" crc="3941233675" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -164,97 +164,201 @@
     <file name="ee7f2d78-f75a-4a5d-afe0-7157f91bcfc6-crop-u4732.jpg" crc="434490184" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="project2.jpg" crc="133306549" seo="true" ref="portfolio">
+    <file name="project2.jpg" crc="179953383" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="soul essence2.jpg" crc="4048905155" seo="true" ref="portfolio">
+    <file name="soul essence2.jpg" crc="4034986606" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet.jpg" crc="99827734" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
+    <file name="booklet.jpg" crc="4226956571" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet2.jpg" crc="3919761040" seo="true" ref="portfolio">
+    <file name="booklet2.jpg" crc="4179629557" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet3.jpg" crc="184940102" seo="true" ref="portfolio">
+    <file name="booklet3.jpg" crc="4100621983" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet4.jpg" crc="69230949" seo="true" ref="portfolio">
+    <file name="booklet4.jpg" crc="336873632" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet5.jpg" crc="3934499398" seo="true" ref="portfolio">
+    <file name="booklet5.jpg" crc="1003310" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet6.jpg" crc="4227290136" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
+    <file name="booklet6.jpg" crc="175968798" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="project2201x172.jpg" crc="251402272" seo="true" ref="portfolio">
+    <file name="project2-crop-u7316.jpg" crc="4119614136" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="soul essence2215x172.jpg" crc="3817107187" seo="true" ref="portfolio">
+    <file name="soul essence2-crop-u7524.jpg" crc="4126070463" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet2216x167.jpg" crc="254365507" seo="true" ref="portfolio">
+    <file name="booklet-crop-u7610.jpg" crc="4160163488" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet3215x166.jpg" crc="4205846894" seo="true" ref="portfolio">
+    <file name="booklet2-crop-u7663.jpg" crc="188589685" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet4216x167.jpg" crc="352779955" seo="true" ref="portfolio">
+    <file name="booklet3-crop-u7716.jpg" crc="3969231539" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet5215x166.jpg" crc="3882260628" seo="true" ref="portfolio">
+    <file name="booklet4-crop-u7769.jpg" crc="4178599948" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="project2126x108.jpg" crc="160967330" seo="true" ref="portfolio">
+    <file name="booklet5-crop-u7822.jpg" crc="4279762616" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="soul essence2134x108.jpg" crc="4224511398" seo="true" ref="portfolio">
+    <file name="booklet6-crop-u7875.jpg" crc="4082449997" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet2135x104.jpg" crc="3994280558" seo="true" ref="portfolio">
+    <file name="project2338x288.jpg" crc="415641086" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet3134x104.jpg" crc="234802242" seo="true" ref="portfolio">
+    <file name="soul essence2360x288.jpg" crc="3985646726" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet4135x105.jpg" crc="4153865324" seo="true" ref="portfolio">
+    <file name="booklet187x288.jpg" crc="3999400916" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet5135x104.jpg" crc="427101264" seo="true" ref="portfolio">
+    <file name="booklet2373x288.jpg" crc="4121688876" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="project2-crop-u490.jpg" crc="250177383" seo="true" ref="portfolio">
+    <file name="booklet3373x288.jpg" crc="309711947" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="soul essence2-crop-u500.jpg" crc="254228342" seo="true" ref="portfolio">
+    <file name="booklet4373x288.jpg" crc="3974652771" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet-crop-u510.jpg" crc="3966440583" seo="true" ref="portfolio">
+    <file name="booklet5373x288.jpg" crc="3776093741" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet2-crop-u520.jpg" crc="3840060403" seo="true" ref="portfolio">
+    <file name="booklet6187x288.jpg" crc="479232315" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet3-crop-u530.jpg" crc="4237095973" seo="true" ref="portfolio">
+    <file name="project2-crop-u73162.jpg" crc="3909796079" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet4-crop-u540.jpg" crc="76359159" seo="true" ref="portfolio">
+    <file name="soul essence2-crop-u75242.jpg" crc="41823924" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet5-crop-u550.jpg" crc="3847503088" seo="true" ref="portfolio">
+    <file name="booklet-crop-u76102.jpg" crc="4247957105" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="booklet6-crop-u560.jpg" crc="4261346199" seo="true" ref="portfolio">
+    <file name="booklet2-crop-u76632.jpg" crc="237009005" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet3-crop-u77162.jpg" crc="390043898" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet4-crop-u77692.jpg" crc="4026029077" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet5-crop-u78222.jpg" crc="4222656155" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet6-crop-u78752.jpg" crc="399831115" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="project2212x180.jpg" crc="441153466" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="soul essence2225x180.jpg" crc="64875456" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet117x180.jpg" crc="393932863" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet2233x180.jpg" crc="4194714155" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet3233x180.jpg" crc="4001774258" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet4233x180.jpg" crc="108987747" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet5233x180.jpg" crc="395282147" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet6117x180.jpg" crc="3942401323" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="project2-crop-u73163.jpg" crc="3942922969" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="soul essence2-crop-u75243.jpg" crc="3879847532" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet-crop-u76103.jpg" crc="4083795789" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet2-crop-u76633.jpg" crc="423518232" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet3-crop-u77163.jpg" crc="3907554157" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet4-crop-u77693.jpg" crc="153960138" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet5-crop-u78223.jpg" crc="3928168750" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet6-crop-u78753.jpg" crc="4204227487" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="project2141x120.jpg" crc="136152100" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="soul essence2150x120.jpg" crc="485829100" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet78x120.jpg" crc="3904137432" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet2156x120.jpg" crc="291476386" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet3156x120.jpg" crc="4019510387" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet4156x120.jpg" crc="465123754" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet5156x120.jpg" crc="3902131936" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet678x120.jpg" crc="4251883971" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="project2-crop-u73164.jpg" crc="4128532186" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="soul essence2-crop-u75244.jpg" crc="4148652782" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet-crop-u76104.jpg" crc="3869687293" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet2-crop-u76634.jpg" crc="503596686" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet3-crop-u77164.jpg" crc="4018519059" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet4-crop-u77694.jpg" crc="176478100" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet5-crop-u78224.jpg" crc="391831128" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="booklet6-crop-u78754.jpg" crc="302229145" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4054514288" seo="true" mt="1536617828749" redirect="true"/>
-  <file name="about.html" crc="4276111720" seo="true" mt="1536622191042" redirect="true"/>
-  <file name="portfolio.html" crc="36410821" seo="true" mt="1536617828749" redirect="true"/>
+  <file name="index.html" crc="87549870" seo="true" mt="1536682958010" redirect="true"/>
+  <file name="about.html" crc="469198513" seo="true" mt="1536683248068" redirect="true"/>
+  <file name="portfolio.html" crc="3770695639" seo="true" mt="1536682856432" redirect="true"/>
   <file name="contact.html" crc="3995315360" seo="true" mt="1536622755712" redirect="true"/>
 </manifest>
