@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://designsg.me/index.html</loc>
-    <lastmod>2018-09-11</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>http://designsg.me/about.html</loc>
-    <lastmod>2018-09-11</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -65,7 +65,7 @@
   </url>
   <url>
     <loc>http://designsg.me/portfolio.html</loc>
-    <lastmod>2018-09-11</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -278,7 +278,7 @@
   </url>
   <url>
     <loc>http://designsg.me/contact.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
